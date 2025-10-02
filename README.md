@@ -6,7 +6,7 @@ A 32-bit single-cycle processor based on the RISC-V (RV32I) instruction set arch
 [![Made with Verilog](https://img.shields.io/badge/Made%20with-Verilog-1f425f.svg)](https://verilog.org/)
 [![ISA-RV32I](https://img.shields.io/badge/ISA-RV32I-blue.svg)](https://riscv.org/technical/specifications/)
 
-'Harman semicon academy 2기' 프로젝트로, Verilog HDL을 사용하여 RISC-V 아키텍처 기반의 32비트 단일 사이클 CPU 코어를 설계하고 검증했습니다.
+'Harman semicon academy 2기' 프로젝트로, System Verilog을 사용하여 RISC-V 아키텍처 기반의 32비트 단일 사이클 CPU 코어를 설계하고 검증했습니다.
 
 본 프로젝트는 컴퓨터 구조의 핵심 원리를 이해하고, 명령어 디코딩부터 실행에 이르는 데이터패스와 제어 유닛을 직접 구현하여 CPU의 동작 방식을 학습하는 것을 목표로 합니다.
 
