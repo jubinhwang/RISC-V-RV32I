@@ -64,7 +64,7 @@ CPU는 명령어에 따라 데이터 흐름을 결정하는 **제어 유닛**과
 
 1.  **📂 프로젝트 다운로드 및 설정**
     ```bash
-    git clone [여기에-저장소-URL-붙여넣기]
+    git clone https://github.com/jubinhwang/RISC-V-RV32I.git
     ```
 
 2.  **🧪 시뮬레이션 실행**
