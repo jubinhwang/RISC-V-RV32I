@@ -22,7 +22,7 @@ A 32-bit single-cycle processor based on the RISC-V (RV32I) instruction set arch
 * **하버드 구조 (Harvard Architecture)**
     명령어와 데이터 메모리를 물리적으로 분리하여 CPU가 명령어 인출과 데이터 접근을 동시에 수행할 수 있도록 했습니다. 이는 폰 노이만 구조의 병목 현상을 해결하고 성능을 극대화하는 데 유리합니다.
 
-* **완전한 명령어 포맷 지원**
+* **명령어 포맷 지원**
     RV32I의 모든 명령어 형식(**R, I, S, B, U, J-Type**)을 지원하여 다양한 종류의 연산과 프로그램 흐름 제어가 가능합니다.
 
 ## 🛠️ 시스템 아키텍처
